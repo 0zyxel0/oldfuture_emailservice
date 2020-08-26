@@ -403,10 +403,10 @@
                     </thead>
                     <tbody>
                     <tr>
-                        <td scope="row"><strong>CHF 5.-</strong> / mois</td>
-                        <td><strong>CHF 19.-</strong> / mois</td>
-                        <td><strong>CHF 29.-</strong> / mois</td>
-                        <td><strong>CHF 59.-</strong> / mois</td>
+                        <td scope="row"><strong>CHF 5.-</strong> / mois<sup>1</sup></td>
+                        <td><strong>CHF 19.-</strong> / mois<sup>1</sup></td>
+                        <td><strong>CHF 29.-</strong> / mois<sup>1</sup></td>
+                        <td><strong>CHF 59.-</strong> / mois<sup>1</sup></td>
                     </tr>
                     </tbody>
                 </table>
@@ -429,7 +429,7 @@
                         possibilités variées d' <b>EASY-DISP</b> et ce sans
                         engagement</h3>
                 </div>
-                <h4 class="wow fadeInUp" data-wow-delay="300ms">L’option suivante m’intéresse:</h4>
+                <h4 class="wow fadeInUp" data-wow-delay="300ms">L’option suivante m’intéresse :</h4>
                 <table class="table top30">
                     <thead class="thead-green">
                     <tr>
@@ -445,7 +445,7 @@
                     </tr>
                     </thead>
                 </table>
-                <h4 class="wow fadeInUp top50" data-wow-delay="300ms">Avec le paquet de données pour le réseau EASY-DISP LTE suivant:</h4>
+                <h4 class="wow fadeInUp top50" data-wow-delay="300ms">Avec le paquet de données pour le réseau EASY-DISP LTE suivant :</h4>
                 <table class="table top30">
                     <thead class="thead-green">
                     <tr>
@@ -463,13 +463,13 @@
                 </table>
 
                 <h4 class="wow fadeInUp top50" data-wow-delay="300ms">J’aimerais commander le désinfectant DESINEX de
-                    de RIWAX® en profitant du prix exclusif de l’offre</h4>
+                    de RIWAX® en profitant du prix exclusif de l’offre:</h4>
                 <table class="top30 col-lg-8">
                     <thead class="thead-green">
                     <tr>
                         <th scope="col" style="padding: 10px;" >
                             <div>
-                                <h4 class="greyText" style="" scope="col">6 Liters de gel désinfectant DESINEX de <strong>RIWAX® DESINEX GEL</strong> pour <strong>CHF 90.-</strong></h4>
+                                <h4 class="greyText" style="" scope="col">6 Liters de gel désinfectant DESINEX de <strong>RIWAX<sup>®</sup> DESINEX GEL</strong> pour <strong>CHF 90.-</strong></h4>
                                 <span class="greyText">Prix hors TVA et frais d’expédition</span>
                             </div>
                         </th>

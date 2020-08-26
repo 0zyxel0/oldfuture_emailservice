@@ -40,6 +40,10 @@
   src: url('/oldfuture_emailservice/public/fonts/MuseoSans-900.otf');
   font-family: "Museo900";
   }
+@font-face {
+  src: url('/oldfuture_emailservice/public/fonts/MuseoSans-700.otf');
+  font-family: "Museo700";
+  }
 
 body {
     padding: 0;
@@ -4544,8 +4548,7 @@ p {
 }
 
 strong {
-	font-size: 120%;
-	font-family: 'Passion One', cursive;
+	font-family: Museo900;
 }
 
 b {
