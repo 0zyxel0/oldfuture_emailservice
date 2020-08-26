@@ -37,11 +37,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Passion+One:wght@700&display=swap');
 
 @font-face {
-  src: url('/oldfuture_emailservice/public/fonts/MuseoSans-900.otf');
+  src: url('/public/fonts/MuseoSans-900.otf');
   font-family: "Museo900";
   }
 @font-face {
-  src: url('/oldfuture_emailservice/public/fonts/MuseoSans-700.otf');
+  src: url('/public/fonts/MuseoSans-700.otf');
   font-family: "Museo700";
   }
 
