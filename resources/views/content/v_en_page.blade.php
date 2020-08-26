@@ -130,9 +130,9 @@
                     <div class="col-lg-6 nopadding">
                         <div class="split-box center-block container-padding equalheight">
                             <div class="heading-title padding">
-                                <h3 class="wow fadeInUp" data-wow-delay="300ms">Contact-free <b>Hand Disinfection Dispenser</b> and <b>Information System Display</b> in one</h3>
+                                <h2 class="wow fadeInUp" data-wow-delay="300ms">Contact-free <b>Hand Disinfection Dispenser</b> and <b>Information System Display</b> in one</h2>
                                 <br/>
-                                <h4 class="heading_space wow fadeInUp" data-wow-delay="500ms">Protect the health of your customers and employees. <strong>EASY-DISP</strong> is a contact-free dispenser system for hand disinfection with integrated TV screen for individually configurable information. Using Images, Animation or Films - transmit your messages directly and easily where they are seen.</h4>.
+                                <h4 class="heading_space wow fadeInUp" data-wow-delay="500ms">Protect the health of your customers and employees. <span class="font-bold">EASY-DISP</span> is a contact-free dispenser system for hand disinfection with integrated TV screen for individually configurable information. Using Images, Animation or Films - transmit your messages directly and easily where they are seen.</h4>.
                                 <hr>
                                 <!--Features -->
                                 <div class="row" id="app-feature">
@@ -141,28 +141,28 @@
                                             <div class="feature-item left top30 bottom50 wow fadeInUp featureHeight" data-wow-delay="300ms">
                                                 <span class="icon"> <i class="fa"><img class="custom-icons" alt="SEO" src="{{asset(url('/public/images/icons/icon-1.png'))}}"></i></span>
                                                 <div class="text">
-                                                    <h5> &nbsp; </h5>
+                                                  
                                                     <p>Contact-free, sensor-controlled dispenser for hand disinfection with 3000ml capacity</p>
                                                 </div>
                                             </div>
                                             <div class="feature-item left top30 bottom30 wow fadeInUp featureHeight" data-wow-delay="350ms">
                                                 <span class="icon"><i class="fa"><img class="custom-icons" alt="SEO" src="{{asset(url('/public/images/icons/icon-2.png'))}}"></i></span>
                                                 <div class="text">
-                                                    <h5> &nbsp; </h5>
+                                                   
                                                     <p>Professional TV station for 24/7 operation, LTE technology, 32GB SSD, with various data packages starting from 50 MB per month available</p>
                                                 </div>
                                             </div>
                                             <div class="feature-item left top30 bottom30 wow fadeInUp featureHeight" data-wow-delay="400ms">
                                                 <span class="icon"><i class="fa"><img class="custom-icons-2" alt="SEO" src="{{asset(url('/public/images/icons/icon-6.png'))}}"></i></span>
                                                 <div class="text">
-                                                    <h5> &nbsp; </h5>
+                                                   
                                                     <p>Screen with full or split-screens (1/3 to 2/3) display. Ideal for your additional information or advertising</p>
                                                 </div>
                                             </div>
                                             <div class="feature-item left top30 bottom30 wow fadeInUp featureHeight" data-wow-delay="400ms">
                                                 <span class="icon"><i class="fa"><img class="custom-icons" alt="SEO" src="{{asset(url('/public/images/icons/icon-7.png'))}}"></i></span>
                                                 <div class="text">
-                                                    <h5> &nbsp; </h5>
+                                                
                                                     <p>Content management via integrated web browser and digital signage software which are industry standard</p>
                                                 </div>
                                             </div>
@@ -173,8 +173,8 @@
                                             <div class="feature-item right top30 bottom30 wow fadeInUp featureHeight" data-wow-delay="300ms">
                                                 <span class="icon"><i class="fa"><img class="custom-icons-2" alt="SEO" src="{{asset(url('/public/images/icons/icon-3.png'))}}"></i></span>
                                                 <div class="text">
-                                                    <h5> &nbsp; </h5>
-                                                    <p><strong>Plug & Play</strong> - no further installations necessary. Available as stand system or for wall mounting that are available in different sizes.</p>
+                                               
+                                                    <p><span class="font-bold">Plug & Play</span> - no further installations necessary. Available as stand system or for wall mounting that are available in different sizes.</p>
                                                 </div>
                                             </div>
                                             <div class="feature-item right top30 bottom30 wow fadeInUp featureHeight" data-wow-delay="350ms">
@@ -187,7 +187,7 @@
                                             <div class="feature-item right top30 bottom30 wow fadeInUp featureHeight" data-wow-delay="400ms">
                                                 <span class="icon"><i class="fa"><img class="custom-icons" alt="SEO" src="{{asset(url('/public/images/icons/icon-5.png'))}}"></i></span>
                                                 <div class="text">
-                                                    <h5> &nbsp; </h5>
+                                            
                                                     <p>
                                                         You can easily order disinfectants from RIWAX®, against bacteria, germs and viruses (Coroa virus) at the same time
                                                     </p>
@@ -214,6 +214,7 @@
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-md-5 col-5 spacer">
+										
                                             <div style="position: relative; left: 0; top: 0;">
                                                 <img v-bind:src="image" alt="" class="img-src">
                                                 <img src="{{asset(url('/public/images/monitor_vector_04.png'))}}" class="img-frame">
@@ -221,6 +222,7 @@
                                         </div>
 
                                         <div style="padding-top:10%; " class="col-md-4 col-4 text-md-left wow fadeInLeft" data-wow-delay="300ms">
+										
                                             <p class="whitecolor text-center">Select one of the following display options</p>
                                             <div id="flat-filters" class="cbp-l-filters dark bottom30">
 
@@ -347,9 +349,9 @@
                     </tr>
                     <tr>
                         <td scope="row">ab <strong>CHF 86.-</strong> / Month</td>
-                        <td>at <strong>CHF 86.-</strong> / Month</td>
-                        <td>at <strong>CHF 86.-</strong> / Month</td>
-                        <td>at <strong>CHF 86.-</strong> / Month</td>
+                        <td>at <strong>CHF 86.-</strong> / Month<sup>1</sup></td>
+                        <td>at <strong>CHF 86.-</strong> / Month<sup>1</sup></td>
+                        <td>at <strong>CHF 86.-</strong> / Month<sup>1</sup></td>
                     </tr>
                     </tbody>
                 </table>
@@ -371,10 +373,10 @@
                     </thead>
                     <tbody>
                     <tr>
-                        <td scope="row"><strong>CHF 5.-</strong> / Month</td>
-                        <td><strong>CHF 19.-</strong> / Month</td>
-                        <td><strong>CHF 29.-</strong> / Month</td>
-                        <td><strong>CHF 59.-</strong> / Month</td>
+                        <td scope="row"><strong>CHF 5.-</strong> / Month<sup>1</sup></td>
+                        <td><strong>CHF 19.-</strong> / Month<sup>1</sup></td>
+                        <td><strong>CHF 29.-</strong> / Month<sup>1</sup></td>
+                        <td><strong>CHF 59.-</strong> / Month<sup>1</sup></td>
                     </tr>
                     </tbody>
                 </table>
@@ -434,7 +436,7 @@
                     <tr>
                         <th scope="col" style="padding: 10px;" >
                             <div>
-                                <h4 class="greyText" style="" scope="col">6 Liters <strong>RIWAX® DESINEX GEL</strong> for <strong>CHF 90.-</strong></h4>
+                                <h4 class="greyText" style="" scope="col">6 Liters <strong>RIWAX<sup>®</sup> DESINEX GEL</strong> for <strong>CHF 90.-</strong></h4>
                                 <span class="greyText">Price excl. VAT and shipping</span>
                             </div>
                         </th>
@@ -456,13 +458,21 @@
 
                 <h3 class="wow fadeInUp top30" data-wow-delay="300ms">Total Order Amount</h3>
                 <span> excl. VAT</span>
-                <table class="table top30 small-table">
+				<div class="row">
+				<div class="col-sm-7 nopadding">
+                <table style="margin-left:2%;" class="table top30 small-table">
                     <thead class="thead-green small-table">
                     <tr>
                         <th scope="col"> <span><i class="fa fa-arrow-right"></i></span>&nbsp; &nbsp;<strong>CHF @{{totalOrderAmount}}</strong></th>
                     </tr>
                     </thead>
                 </table>
+				</div>
+				<div class="col-sm-5 nopadding">
+				
+				<p class="small-font top30"><sup>1</sup>Offer example for 48 months installment plan<br/>For inquiries or branding directly to: <span style="font-weight: bold;">sales@oldfuture.ch</span></p>
+				</div>
+				</div>
             </div>
         </section>
         <!-- Tables End -->

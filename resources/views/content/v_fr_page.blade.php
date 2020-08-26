@@ -403,10 +403,10 @@
                     </thead>
                     <tbody>
                     <tr>
-                        <td scope="row"><strong>CHF 5.-</strong> / mois</td>
-                        <td><strong>CHF 19.-</strong> / mois</td>
-                        <td><strong>CHF 29.-</strong> / mois</td>
-                        <td><strong>CHF 59.-</strong> / mois</td>
+                        <td scope="row"><strong>CHF 5.-</strong> / mois<sup>1</sup></td>
+                        <td><strong>CHF 19.-</strong> / mois<sup>1</sup></td>
+                        <td><strong>CHF 29.-</strong> / mois<sup>1</sup></td>
+                        <td><strong>CHF 59.-</strong> / mois<sup>1</sup></td>
                     </tr>
                     </tbody>
                 </table>
@@ -469,7 +469,7 @@
                     <tr>
                         <th scope="col" style="padding: 10px;" >
                             <div>
-                                <h4 class="greyText" style="" scope="col">6 Liters de gel désinfectant DESINEX de <strong>RIWAX® DESINEX GEL</strong> pour <strong>CHF 90.-</strong></h4>
+                                <h4 class="greyText" style="" scope="col">6 Liters de gel désinfectant DESINEX de <strong>RIWAX<sup>®</sup> DESINEX GEL</strong> pour <strong>CHF 90.-</strong></h4>
                                 <span class="greyText">Prix hors TVA et frais d’expédition</span>
                             </div>
                         </th>
