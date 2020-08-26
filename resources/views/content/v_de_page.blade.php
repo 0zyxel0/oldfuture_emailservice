@@ -184,7 +184,8 @@
                                                 <div class="text">
                                                 
                                                     <p>
-                                                        Desifektionsmittel von RIWAX®, gege Bakterien, Keime und Viren (Corona-Virus) können Sie unkompliziert gleich mitbestellen
+                                                        Desifektionsmittel «DESINEX» Gel von RIWAX®, gegen Bakterien, Keime und Viren (Corona-Virus) können Sie unkompliziert gleich
+                                                        bei uns bestellen
                                                     </p>
                                                 </div>
                                             </div>
@@ -285,7 +286,7 @@
         <section class="darkbackground padding_bottom_half">
             <div class="container whitecolor">
                 <div class=" heading_space col-lg-12 padding_top_half">
-                    <h3 style="margin-left: -15px;" class="wow fadeInUp whitecolor" data-wow-delay="300ms">Für jedes Budget ein massgescheidertes Angebot. Wählen Sie eine der attraktiven <b>EASY-DISP Mietoptionen</b></h3>
+                    <h3 style="margin-left: -15px;" class="wow fadeInUp whitecolor" data-wow-delay="300ms">Für jedes Budget ein massgescheidertes Angebot. Wählen Sie eine der attraktiven <b>EASY-DISP Mietkaufoptionen</b></h3>
                 </div>
                 <h4 class="wow fadeInUp" data-wow-delay="300ms"><strong>1</strong> Wählen Sie lhr EASY-DISP System</h4>
                 <table class="table top30">
@@ -369,7 +370,7 @@
                     </tr>
                     </tbody>
                 </table>
-                <h4 class="wow fadeInUp top50" data-wow-delay="300ms"><strong>3</strong> lhr monatlicher Mietpreis</h4>
+                <h4 class="wow fadeInUp top50" data-wow-delay="300ms"><strong>3</strong> Ihr monatlicher Mietkaufpreis</h4>
                 <table class="table top30 small-table">
                     <thead class="thead-green small-table">
                     <tr>
@@ -471,7 +472,7 @@
                 <div class="row">
                     <div class="col-md-12 col-sm-12">
                         <div class="heading-title heading_space_01 wow fadeIn" data-wow-delay="300ms">
-                            <h3 class="whitecolor">lhre Adressangaben</h3>
+                            <h3 class="whitecolor">Ihre Kontaktangaben</h3>
                         </div>
                     </div>
                     <div class="col-md-6 col-sm-12 margin_bottom">
@@ -567,7 +568,7 @@
 
                                 </div>
                                 <div class="col-sm-6">
-                                    <button style="border-radius: 0;" type="button" class="button btnprimary" v-on:click="submitEmailOrder()">Bestellen</button>
+                                    <button style="border-radius: 0;" type="button" class="button btnprimary" v-on:click="submitEmailOrder()">Senden</button>
                                 </div>
                             </div>
                         </div>

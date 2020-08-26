@@ -189,7 +189,7 @@
                                                 <div class="text">
                                             
                                                     <p>
-                                                        You can easily order disinfectants from RIWAX®, against bacteria, germs and viruses (Coroa virus) at the same time
+                                                        Desinfectant "DESINEX" Gel from RIWAX®, against bacteria, germs and viruses (Corona-Virus) can be ordered easily from us
                                                     </p>
                                                 </div>
                                             </div>
@@ -578,7 +578,7 @@
 
                                 </div>
                                 <div class="col-sm-6">
-                                    <button style="border-radius: 0;" type="button" class="button btnprimary" v-on:click="submitEmailOrder()">Order</button>
+                                    <button style="border-radius: 0;" type="button" class="button btnprimary" v-on:click="submitEmailOrder()">Send</button>
                                 </div>
                             </div>
                         </div>
