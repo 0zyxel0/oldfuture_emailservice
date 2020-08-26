@@ -35,8 +35,10 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700|Raleway:200,300,400,500,600,700,800');
 @import url('https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900');
 @import url('https://fonts.googleapis.com/css2?family=Passion+One:wght@700&display=swap');
-body {
 
+@font-face {
+  src: url('/oldfuture_emailservice/public/fonts/MuseoSans-900.otf');
+  font-family: "Museo900";
   }
 
 body {
@@ -4547,7 +4549,7 @@ strong {
 }
 
 b {
-	font-family: 'Passion One', cursive;
+	font-family: Museo900;
 }
 
 .font-bold {
