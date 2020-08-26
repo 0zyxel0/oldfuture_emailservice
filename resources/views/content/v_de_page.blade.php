@@ -184,7 +184,7 @@
                                                 <div class="text">
                                                     <h5> &nbsp; </h5>
                                                     <p>
-                                                        Desifektionsmittel von RIWAX®, gege Bakterien, Keime und Viren (Coroa-Virus) können Sie unkompliziert gleich mitbestellen
+                                                        Desifektionsmittel von RIWAX®, gege Bakterien, Keime und Viren (Corona-Virus) können Sie unkompliziert gleich mitbestellen
                                                     </p>
                                                 </div>
                                             </div>

@@ -142,7 +142,7 @@
                                                 <span class="icon"> <i class="fa"><img class="custom-icons" alt="SEO" src="{{asset(url('/public/images/icons/icon-1.png'))}}"></i></span>
                                                 <div class="text">
                                                     <h5> &nbsp; </h5>
-                                                    <p>Contact-free, sensor-controlled dispenser for hand disinfection with 3000ml drum capacity</p>
+                                                    <p>Contact-free, sensor-controlled dispenser for hand disinfection with 3000ml capacity</p>
                                                 </div>
                                             </div>
                                             <div class="feature-item left top30 bottom30 wow fadeInUp featureHeight" data-wow-delay="350ms">
